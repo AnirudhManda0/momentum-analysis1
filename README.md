@@ -1,4 +1,4 @@
-# BEMTurbine
+# momentum-analysis1
 
 This is a simple blade element momentum (BEM) analysis tool for horizontal axis wind turbines. 
 
